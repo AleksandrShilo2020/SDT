@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\лаба 1\Project26\Project26\Source.cpp(10,9): warning C4551: в вызове функции отсутствует список аргументов
+D:\лаба 1\Project26\Project26\Source.cpp(27,19): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Project26.vcxproj -> D:\лаба 1\Project26\Debug\Project26.exe
